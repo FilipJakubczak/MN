@@ -1,4 +1,4 @@
-# Project Title
+# Numerical Methods
 
 Here i store my Numerical Methods class assignments (Faculty of Physics, WUT)
 
